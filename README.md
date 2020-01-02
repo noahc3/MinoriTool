@@ -1,4 +1,5 @@
-﻿# <img src="https://i.imgur.com/4XAjsxJ.png" style="max-width:120px"></img> MinoriTool
+<p align="center"><img src="https://i.imgur.com/4XAjsxJ.png" width="120" height="120"/></p>
+<h1 align="center">MinoriTool</h1>
 
 Simple tool to batch convert compressed or uncompressed .gim files in Toradora! Portable (and probably other games) to PNG using Sony's official GimConv tool and gunzip.
 
