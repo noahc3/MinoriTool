@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinoriTool", "MinoriTool.csproj", "{D08FC7CC-3C81-4F71-BF70-A3755D4905F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08FC7CC-3C81-4F71-BF70-A3755D4905F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08FC7CC-3C81-4F71-BF70-A3755D4905F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08FC7CC-3C81-4F71-BF70-A3755D4905F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08FC7CC-3C81-4F71-BF70-A3755D4905F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957E3394-2CC6-41BE-BBE3-9A254965F1BB}
+	EndGlobalSection
+EndGlobal
